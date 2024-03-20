@@ -85,9 +85,7 @@ if mode == '1':
 elif mode == '2':
     test()
 
-elif mode == '3':
-    print("공부나 해 이상한거 누르지 말고")
-    input("아무거나 눌러라")
+# Easter Egg ...
 
 else:
     print('제대로 입력해 주세요. 프로그램을 종료합니다')
